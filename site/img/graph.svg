@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="297px" height="311px" viewBox="0 0 297 311" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>graph</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-887.000000, -238.000000)">
+            <g id="graph" transform="translate(888.000000, 238.000000)">
+                <g>
+                    <rect id="Rectangle-4" stroke="#979797" fill="#FFFFFF" x="0.5" y="23.5" width="294" height="287"></rect>
+                    <rect id="Rectangle-5" fill="#FFFFFF" x="0" y="0" width="79" height="32"></rect>
+                    <path d="M1,69 L295,69" id="Path-4" stroke="#979797"></path>
+                    <text id="1D" font-family="Helvetica-Light, Helvetica" font-size="14" font-weight="300" fill="#776A6A">
+                        <tspan x="20.054" y="50">1D</tspan>
+                    </text>
+                    <text id="1W" font-family="Helvetica-Light, Helvetica" font-size="14" font-weight="300" fill="#776A6A">
+                        <tspan x="53.885" y="50">1W</tspan>
+                    </text>
+                    <text id="1M" font-family="Helvetica-Light, Helvetica" font-size="14" font-weight="300" fill="#776A6A">
+                        <tspan x="90.277" y="50">1M</tspan>
+                    </text>
+                    <text id="6M" font-family="Helvetica-Light, Helvetica" font-size="14" font-weight="300" fill="#776A6A">
+                        <tspan x="125.277" y="50">6M</tspan>
+                    </text>
+                    <text id="1Y" font-family="Helvetica-Light, Helvetica" font-size="14" font-weight="300" fill="#776A6A">
+                        <tspan x="159.831" y="50">1Y</tspan>
+                    </text>
+                    <text id="5Y" font-family="Helvetica-Light, Helvetica" font-size="14" font-weight="300" fill="#776A6A">
+                        <tspan x="190.831" y="50">5Y</tspan>
+                    </text>
+                    <text id="MAX" font-family="Helvetica-Light, Helvetica" font-size="14" font-weight="300" fill="#776A6A">
+                        <tspan x="224.723" y="50">MAX</tspan>
+                    </text>
+                    <path d="M1,105 L295,105" id="Path-5" stroke="#979797"></path>
+                    <path d="M0,126.812414 L28.9645466,151 L43.2184995,118.6254 L51.9115843,126.812414 L58.1455746,103.973618 L76.6445943,85.4204952 L84.1064406,75 L106.90803,75 L132.331074,85.4204952 L132.331074,103.973618 L148.902056,118.6254 L163.900164,138.128477 L163.900164,150.484307 L177.037884,138.128477 L177.037884,118.6254 L182.321386,98.6763513 L182.321386,85.4204952 L193.033837,98.6763513 L193.033837,75 C197.232676,90.7842342 199.332095,98.6763513 199.332095,98.6763513 C199.332095,98.6763513 203.512894,105.326034 211.874491,118.6254 L217.198583,98.6763513 C221.843915,98.6763513 224.166581,98.6763513 224.166581,98.6763513 C224.166581,98.6763513 229.173843,108.055039 239.188366,126.812414 L239.188366,113 L260.007797,126.812414 L260.007797,98.6763513 L274.227925,118.6254 C274.227925,131.627451 274.227925,138.128477 274.227925,138.128477 C274.227925,138.128477 277.19778,138.128477 283.137491,138.128477 L283.137491,126.812414 L283.137491,103.973618 C283.137491,91.6048694 283.137491,85.4204952 283.137491,85.4204952 C283.137491,85.4204952 288.864103,94.9472353 288.864103,103.973618 C288.864103,109.991206 290.909402,114.875133 295,118.6254 L295,151 L0,151 L0,126.812414 Z" id="Path-8" stroke="#979797" fill-opacity="0.389945652" fill="#B7EEFF"></path>
+                    <rect id="Rectangle-6" stroke="#979797" x="0.5" y="209.5" width="294" height="21"></rect>
+                    <rect id="Rectangle-6-Copy" stroke="#979797" x="0.5" y="150.5" width="294" height="20"></rect>
+                    <rect id="Rectangle-6-Copy-4" stroke="#979797" x="0.5" y="170.5" width="294" height="20"></rect>
+                    <rect id="Rectangle-6-Copy-3" stroke="#979797" x="0.5" y="251.5" width="294" height="20"></rect>
+                    <rect id="Rectangle-6-Copy-6" stroke="#979797" x="0.5" y="271.5" width="294" height="20"></rect>
+                    <text id="S-&amp;-P-500-Futures-Copy-6" font-family="Helvetica-Light, Helvetica" font-size="12" font-weight="300" fill="#766464">
+                        <tspan x="9.584" y="284">S &amp; P 500 Futures</tspan>
+                    </text>
+                    <text id="S-&amp;-P-500-Futures-Copy-8" font-family="Helvetica-Light, Helvetica" font-size="12" font-weight="300" fill="#766464">
+                        <tspan x="8.584" y="264">S &amp; P 500 Futures</tspan>
+                    </text>
+                    <text id="S-&amp;-P-500-Futures-Copy-9" font-family="Helvetica-Light, Helvetica" font-size="12" font-weight="300" fill="#766464">
+                        <tspan x="8.584" y="245">S &amp; P 500 Futures</tspan>
+                    </text>
+                    <text id="S-&amp;-P-500-Futures-Copy-10" font-family="Helvetica-Light, Helvetica" font-size="12" font-weight="300" fill="#766464">
+                        <tspan x="8.584" y="225">S &amp; P 500 Futures</tspan>
+                    </text>
+                    <text id="S-&amp;-P-500-Futures-Copy-11" font-family="Helvetica-Light, Helvetica" font-size="12" font-weight="300" fill="#766464">
+                        <tspan x="8.584" y="204">S &amp; P 500 Futures</tspan>
+                    </text>
+                    <text id="S-&amp;-P-500-Futures-Copy-12" font-family="Helvetica-Light, Helvetica" font-size="12" font-weight="300" fill="#766464">
+                        <tspan x="8.584" y="185">S &amp; P 500 Futures</tspan>
+                    </text>
+                    <text id="S-&amp;-P-500-Futures-Copy-13" font-family="Helvetica-Light, Helvetica" font-size="12" font-weight="300" fill="#766464">
+                        <tspan x="8.584" y="166">S &amp; P 500 Futures</tspan>
+                    </text>
+                    <text id="S-&amp;-P-500-Futures-Copy-7" font-family="Helvetica-Light, Helvetica" font-size="12" font-weight="300" fill="#766464">
+                        <tspan x="8.584" y="304">S &amp; P 500 Futures</tspan>
+                    </text>
+                    <text id="2,746,000" font-family="Helvetica-Light, Helvetica" font-size="12" font-weight="300" fill="#766464">
+                        <tspan x="119.312" y="167">2,746,000</tspan>
+                    </text>
+                    <text id="2,746,000-copy" font-family="Helvetica-Light, Helvetica" font-size="12" font-weight="300" fill="#766464">
+                        <tspan x="119.312" y="185">2,746,000</tspan>
+                    </text>
+                    <text id="2,746,000-copy-2" font-family="Helvetica-Light, Helvetica" font-size="12" font-weight="300" fill="#766464">
+                        <tspan x="119.312" y="205">2,746,000</tspan>
+                    </text>
+                    <text id="2,746,000-copy-3" font-family="Helvetica-Light, Helvetica" font-size="12" font-weight="300" fill="#766464">
+                        <tspan x="119.312" y="225">2,746,000</tspan>
+                    </text>
+                    <text id="2,746,000-copy-4" font-family="Helvetica-Light, Helvetica" font-size="12" font-weight="300" fill="#766464">
+                        <tspan x="120.312" y="245">2,746,000</tspan>
+                    </text>
+                    <text id="2,746,000-copy-5" font-family="Helvetica-Light, Helvetica" font-size="12" font-weight="300" fill="#766464">
+                        <tspan x="120.312" y="264">2,746,000</tspan>
+                    </text>
+                    <text id="2,746,000-copy-6" font-family="Helvetica-Light, Helvetica" font-size="12" font-weight="300" fill="#766464">
+                        <tspan x="120.312" y="284">2,746,000</tspan>
+                    </text>
+                    <text id="2,746,000-copy-7" font-family="Helvetica-Light, Helvetica" font-size="12" font-weight="300" fill="#766464">
+                        <tspan x="120.312" y="304">2,746,000</tspan>
+                    </text>
+                    <text id="+12.25" font-family="Helvetica-Light, Helvetica" font-size="12" font-weight="300" fill="#766464">
+                        <tspan x="186.528" y="167">+12.25</tspan>
+                    </text>
+                    <text id="+12.25-copy-2" font-family="Helvetica-Light, Helvetica" font-size="12" font-weight="300" fill="#766464">
+                        <tspan x="186.528" y="184">+12.25</tspan>
+                    </text>
+                    <text id="+12.25-copy-4" font-family="Helvetica-Light, Helvetica" font-size="12" font-weight="300" fill="#766464">
+                        <tspan x="186.528" y="204">+12.25</tspan>
+                    </text>
+                    <text id="+12.25-copy-6" font-family="Helvetica-Light, Helvetica" font-size="12" font-weight="300" fill="#766464">
+                        <tspan x="186.528" y="225">+12.25</tspan>
+                    </text>
+                    <text id="+12.25-copy-8" font-family="Helvetica-Light, Helvetica" font-size="12" font-weight="300" fill="#766464">
+                        <tspan x="188.528" y="244">+12.25</tspan>
+                    </text>
+                    <text id="+12.25-copy-10" font-family="Helvetica-Light, Helvetica" font-size="12" font-weight="300" fill="#766464">
+                        <tspan x="188.528" y="264">+12.25</tspan>
+                    </text>
+                    <text id="+12.25-copy-12" font-family="Helvetica-Light, Helvetica" font-size="12" font-weight="300" fill="#766464">
+                        <tspan x="188.528" y="283">+12.25</tspan>
+                    </text>
+                    <text id="+12.25-copy-14" font-family="Helvetica-Light, Helvetica" font-size="12" font-weight="300" fill="#766464">
+                        <tspan x="188.528" y="303">+12.25</tspan>
+                    </text>
+                    <text id="+12.25-copy" font-family="Helvetica-Light, Helvetica" font-size="12" font-weight="300" fill="#766464">
+                        <tspan x="245.528" y="167">+12.25</tspan>
+                    </text>
+                    <text id="+12.25-copy-3" font-family="Helvetica-Light, Helvetica" font-size="12" font-weight="300" fill="#766464">
+                        <tspan x="245.528" y="185">+12.25</tspan>
+                    </text>
+                    <text id="+12.25-copy-5" font-family="Helvetica-Light, Helvetica" font-size="12" font-weight="300" fill="#766464">
+                        <tspan x="245.528" y="205">+12.25</tspan>
+                    </text>
+                    <text id="+12.25-copy-7" font-family="Helvetica-Light, Helvetica" font-size="12" font-weight="300" fill="#766464">
+                        <tspan x="245.528" y="225">+12.25</tspan>
+                    </text>
+                    <text id="+12.25-copy-9" font-family="Helvetica-Light, Helvetica" font-size="12" font-weight="300" fill="#766464">
+                        <tspan x="247.528" y="245">+12.25</tspan>
+                    </text>
+                    <text id="+12.25-copy-11" font-family="Helvetica-Light, Helvetica" font-size="12" font-weight="300" fill="#766464">
+                        <tspan x="247.528" y="264">+12.25</tspan>
+                    </text>
+                    <text id="+12.25-copy-13" font-family="Helvetica-Light, Helvetica" font-size="12" font-weight="300" fill="#766464">
+                        <tspan x="247.528" y="284">+12.25</tspan>
+                    </text>
+                    <text id="+12.25-copy-15" font-family="Helvetica-Light, Helvetica" font-size="12" font-weight="300" fill="#766464">
+                        <tspan x="247.528" y="304">+12.25</tspan>
+                    </text>
+                    <text id="Commodities" font-family="Helvetica-Light, Helvetica" font-size="10" font-weight="300" fill="#000000">
+                        <tspan x="9.555" y="17">Commodities</tspan>
+                    </text>
+                    <text id="Futures" font-family="Helvetica-Light, Helvetica" font-size="10" font-weight="300" fill="#3D79B0">
+                        <tspan x="95.415" y="17">Futures</tspan>
+                    </text>
+                    <text id="Indices" font-family="Helvetica-Light, Helvetica" font-size="10" font-weight="300" fill="#3D79B0">
+                        <tspan x="153.605" y="17">Indices</tspan>
+                    </text>
+                    <text id="Crypto" font-family="Helvetica-Light, Helvetica" font-size="10" font-weight="300" fill="#3D79B0">
+                        <tspan x="212.91" y="17">Crypto</tspan>
+                    </text>
+                    <polyline id="Path-2" stroke="#979797" points="0.58281516 33.1299648 0.58281516 1.49018612 79.3807297 1.49018612 79.3807297 23.7831819"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

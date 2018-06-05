@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="124px" height="126px" viewBox="0 0 124 126" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="search" stroke="#585858" stroke-width="2">
+            <g id="Group" transform="translate(1.000000, 1.000000)">
+                <ellipse id="Oval" cx="42" cy="40.5" rx="42" ry="40.5"></ellipse>
+                <ellipse id="Oval-Copy" cx="42" cy="41" rx="33" ry="32"></ellipse>
+                <path d="M66,73.9065178 L111.81564,123.394285 C114.990162,122.481154 117.098379,121.547062 118.140292,120.592009 C119.182206,119.636957 120.3177,117.597754 121.546776,114.474402 L71.1865534,70 L66,73.9065178 Z" id="Path-2"></path>
+            </g>
+        </g>
+    </g>
+</svg>

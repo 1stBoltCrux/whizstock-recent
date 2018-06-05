@@ -1,0 +1,286 @@
+* {
+  font-family: "Futura", sans-serif;
+}
+
+ul {
+  list-style: none;
+}
+
+p {
+  padding: 0;
+  margin: 0;
+}
+
+.wrapper {
+  width: 960px;
+
+  margin: 0 auto;
+}
+
+.nav-wrapper {
+  color: white;
+}
+
+.nav-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-color: black;
+  font-size: 12px;
+  height: 32px;
+}
+
+.nav-top li {
+  margin-left: 12px;
+}
+
+.nav-mid {
+  background-color: #033767;
+  height: 64px;
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  font-family: "Futura", sans-serif;
+  font-weight: 600;
+  font-size: 3.4rem;
+  text-transform: uppercase;
+  margin-left: 5%;
+}
+
+.search-box {
+  margin-left: 3%;
+  border-radius: 5px;
+  color: #b5b5b5;
+  height: 60%;
+  width: 30%;
+  background-color: white;
+}
+
+.search-icon {
+  margin-left: 4%;
+  top: 3px;
+  width: 20px;
+  /* border: 1px solid black; */
+  color: black;
+  height: 100%;
+
+}
+
+.search-icon-img {
+  margin-top: 10px;
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.search-icon-img img {
+  width: 100%;
+}
+
+.search-box input {
+  position: relative;
+  margin-left: 22%;
+  bottom: 43px;
+  border: none;
+  height: 70%;
+  width: 70%;
+  outline: none;
+  font-size: 14px;
+}
+
+.nav-bottom {
+  background-color: #F1F1F1;
+  height: 26px;
+  display: flex;
+  justify-content: space-between;
+  font-size: 12px;
+}
+
+.linkbox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 300;
+  text-align: center;
+  font-family: "Futura", sans-serif;
+  color: black;
+  width: 100%;
+
+  border: 1px solid #979797;
+  align-items: center;
+}
+
+.green {
+  color: #358E0B;
+}
+
+.bold {
+  font-weight: 600;
+}
+
+.nav-top ul {
+  display: flex;
+}
+
+.banner {
+  font-size: 1.5rem;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  font-family: "futura", sans-serif;
+  color: white;
+  height: 108px;
+  background: linear-gradient(rgba(4, 0, 43, .5), rgba(4, 0, 43, .5)), url(../img/banner.svg);
+  margin-bottom: 1rem;
+
+}
+
+.banner p {
+  margin-left: 5%;
+}
+
+.content-grid {
+  grid-gap: 1rem;
+  font-family: "Futura", sans-serif;
+  display: grid;
+  grid-template-rows: 1fr .4fr;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.investing-left {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 288px;
+  grid-row: 1;
+  grid-column: 1;
+  color: white;
+  width: 100%;
+  background: linear-gradient(rgba(4, 0, 43, .5), rgba(4, 0, 43, .5)), url(../img/worker.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.investing-right {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 288px;
+  grid-row: 1;
+  grid-column: 2;
+  color: white;
+  width: 100%;
+  background: linear-gradient(rgba(4, 0, 43, .5), rgba(4, 0, 43, .5)), url(../img/market.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.graph {
+  grid-column: 3;
+}
+
+.invest-now {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  color: white;
+  height: 92px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url(../img/investnow.svg);
+  grid-row: 2;
+  grid-column: 1 / span 2;
+  text-transform: uppercase;
+  font-size: 32px;
+}
+
+.invest-now img {
+  height: 90%;
+}
+
+.products {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.product {
+  width: 200px;
+  height: 200px;
+  font-family: "Futura", sans-serif;
+}
+
+.product-img-1 {
+  background-image: url(../img/data-recov-pro.png);
+  background-repeat: no-repeat;
+  height: 150px;
+  width: 100%;
+}
+
+.product-img-2 {
+  background-image: url(../img/remo-shit.png);
+  background-repeat: no-repeat;
+  height: 150px;
+  width: 100%;
+}
+
+.product-img-3 {
+  background-image: url(../img/filecure.png);
+  background-repeat: no-repeat;
+  height: 150px;
+  width: 100%;
+}
+
+@media screen and (max-width: 960px) {
+  .outside-nums {
+    display: none;
+  }
+
+  .logo {
+    font-size: 2rem;
+  }
+
+  .nav-mid {
+    height: 54px;
+  }
+
+  .search-box input {
+    position: relative;
+    height: 40%;
+    width: 170px;
+    bottom: 35px;
+    margin-left: 17%;
+  }
+
+  .nav-wrapper {
+    width: 80%;
+  }
+
+  .banner {
+    width: 80%;
+  }
+  .content-grid {
+    grid-gap: 1rem;
+    font-family: "Futura", sans-serif;
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  .graph {
+    grid-column: 1;
+    grid-row: 2;
+  }
+
+  .invest-now {
+    grid-row: 2;
+    grid-column: 2 / span 1;
+  }
+}
